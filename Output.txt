@@ -1,0 +1,5 @@
+Message: 11001
+Hamming Code: 111001101
+Received Code: 110001101
+Error Location: 7
+Corrected Code: 111001101
